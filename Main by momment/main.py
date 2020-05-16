@@ -107,3 +107,4 @@ while keep_going:
 # starting state class
 # ramdonize startin positions and define numbers of automats
 #
+
